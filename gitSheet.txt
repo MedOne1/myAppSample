@@ -1,0 +1,19 @@
+touch <file.format> ---> kat creer documrnt ha dyal 'html' ya 'js' ...
+
+git init --->(initialize Local git Repository) kat creer folder dyal .git
+
+git config --global user.name 'smiyti' ---> khsna diroha
+
+git config --global user.email 'ahmeddks14@gmail.com' ---> khsna diroha
+
+git add <file> -->  to include in what will be committed & to update what will be committed
+
+git add *.format --> kadirna add lga3 l files li fihom dak lformal bhal .html .js  ...
+
+git add . --> kadirna add lga3 l files li 3ndna fost l folder
+
+git rm --cached <file> --> l3eks dyal git add
+
+git status --> Check status of working tree
+
+git commit --> commit changes in index
